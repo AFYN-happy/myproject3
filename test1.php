@@ -1,5 +1,5 @@
 <?php
-$score = 80;
+$score = 30;
 if ($score >= 90) {
     echo "A";
 } elseif ($score >= 80) {
